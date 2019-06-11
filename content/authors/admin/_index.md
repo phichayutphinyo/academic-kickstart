@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Phichayut Phinyo
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Lecturer in clinical epidemiology and clinical statistics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Chiang Mai University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
