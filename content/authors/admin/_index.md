@@ -21,22 +21,21 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Modern epidemiologic methods
 - Clinical epidemiology 
 - Clinical research/trial
 - Applied clinical statistics
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Diploma in clinical statistics
+    institution: Chiang Mai University
+    year: 2019
+  - course: Diploma in clinical epidemiology
+    institution: Chiang Mai University
+    year: 2018
+  - course: MD (1st class honour)
+    institution: Chiang Mai University
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
