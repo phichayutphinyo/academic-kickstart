@@ -21,9 +21,10 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Modern epidemiologic methods
+- Clinical epidemiology 
+- Clinical research/trial
+- Applied clinical statistics
 
 education:
   courses:
