@@ -27,14 +27,13 @@ interests:
 
 education:
   courses:
-  - course: Diploma in Clinical Statistics
+  - course: Diploma (Clinical Statistics)
     institution: Chiang Mai University
     year: 2019
-  - course: Diploma in Clinical Epidemiology
+  - course: Diploma (Clinical Epidemiology(
     institution: Chiang Mai University
     year: 2018
-  - course: Doctor of Medicine 
-    (MD, First class honors)
+  - course: Doctor of Medicine (MD, 1st class honors)
     institution: Chiang Mai University
     year: 2015
 
