@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Lecturer in clinical epidemiology and clinical statistics
+role: Lecturer in Clinical epidemiology and Clinical statistics
 
 # Organizations/Affiliations
 organizations:
