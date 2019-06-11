@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-I am a full-time lecturer of clinical epidemiology and applied clinical statistics at the faculty of medicine, Chiang Mai University. My research interests include various types of clinical reserch; diagnostic, etiognostic, prognostic and therapeutic research. I'm also a member of clinical epidemiology society of Thailand and a Routine Clinical Research group collaborations (RCR).
+I am a full-time lecturer of clinical epidemiology and applied clinical statistics at the faculty of medicine, Chiang Mai University. My research interests include various types of clinical reserch; Diagnostic, Etiognostic, Prognostic and Therapeutic research. I'm also a member of clinical epidemiology society of Thailand and a Routine Clinical Research group collaborations (RCR). 
 
 I and my supervisor (J.Patumanond) spend parts of our time in advising and training clinical staffs on conducting high-quality, valid clinical researchs in several university-affiliated hospitals.
