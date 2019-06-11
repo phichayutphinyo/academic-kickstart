@@ -52,7 +52,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "phichayutphinyo@gmail.com"
 phone = "+6689 850 1987"
-address = "Centre of clinical epidemiology and clinical statistics <br> @ Faculty of Medicine, Chiang Mai University"
+address = "Center for clinical epidemiology and clinical statistics <br> @ Faculty of Medicine, Chiang Mai University, THAILAND"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""
