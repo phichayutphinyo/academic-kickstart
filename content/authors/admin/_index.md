@@ -33,9 +33,9 @@ education:
   - course: Diploma in Clinical Epidemiology
     institution: Chiang Mai University
     year: 2018
-  - course: MD (1st class honors)
+  - course: Doctor of Medicine (MD, First class honors)
     institution: Chiang Mai University
-    year: 2016
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
