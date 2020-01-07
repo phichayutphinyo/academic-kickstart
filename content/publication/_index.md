@@ -9,6 +9,7 @@ title: Publications
 view: 4
 
 # Optional header image (relative to `static/img/` folder).
+featured = true
 header:
   caption: "
   <div class="calconic-calculator"  data-calculatorid="5e05f974471eb4001e99baf8"></div>
