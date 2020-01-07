@@ -10,12 +10,12 @@
 
 [[main]]
   name = "Teaching"
-  url = "content/home/"
+  url = "#teaching"
   weight = 20
 
 [[main]]
   name = "Calculators"
-  url = "content/home/publications"
+  url = "#calculators"
   weight = 30
 
 [[main]]
