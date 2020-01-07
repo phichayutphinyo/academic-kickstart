@@ -15,7 +15,7 @@
 
 [[main]]
   name = "Calculators"
-  url = "#calculatorsmm.html"
+  url = "#calculators_mm"
   weight = 30
 
 [[main]]
