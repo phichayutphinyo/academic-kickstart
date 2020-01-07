@@ -14,14 +14,19 @@
   weight = 20
 
 [[main]]
+  name = "Calculators"
+  url = "#calculators"
+  weight = 30
+
+[[main]]
   name = "Publications"
   url = "#projects"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "Materials&Books"
   url = "#featured"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "Contact"
