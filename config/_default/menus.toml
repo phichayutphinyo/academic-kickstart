@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Teaching"
-  url = "#posts"
+  url = "posts.md"
   weight = 20
 
 [[main]]
