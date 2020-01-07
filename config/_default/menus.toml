@@ -15,7 +15,7 @@
 
 [[main]]
   name = "Calculators"
-  url = "#calculators"
+  url = "content/home/calculators"
   weight = 30
 
 [[main]]
